@@ -1,0 +1,12 @@
+C:\Users\jlmartinez\Desktop\2018Capacitacion\Code\3-OrangeBelt\fabrikam\sourceCode\VS2015\FabrikamFiber.DAL\bin\Debug\FabrikamFiber.DAL.dll.config
+C:\Users\jlmartinez\Desktop\2018Capacitacion\Code\3-OrangeBelt\fabrikam\sourceCode\VS2015\FabrikamFiber.DAL\bin\Debug\FabrikamFiber.DAL.dll
+C:\Users\jlmartinez\Desktop\2018Capacitacion\Code\3-OrangeBelt\fabrikam\sourceCode\VS2015\FabrikamFiber.DAL\bin\Debug\FabrikamFiber.DAL.pdb
+C:\Users\jlmartinez\Desktop\2018Capacitacion\Code\3-OrangeBelt\fabrikam\sourceCode\VS2015\FabrikamFiber.DAL\bin\Debug\EntityFramework.dll
+C:\Users\jlmartinez\Desktop\2018Capacitacion\Code\3-OrangeBelt\fabrikam\sourceCode\VS2015\FabrikamFiber.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jlmartinez\Desktop\2018Capacitacion\Code\3-OrangeBelt\fabrikam\sourceCode\VS2015\FabrikamFiber.DAL\bin\Debug\EntityFramework.xml
+C:\Users\jlmartinez\Desktop\2018Capacitacion\Code\3-OrangeBelt\fabrikam\sourceCode\VS2015\FabrikamFiber.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jlmartinez\Desktop\2018Capacitacion\Code\3-OrangeBelt\fabrikam\sourceCode\VS2015\FabrikamFiber.DAL\obj\Debug\FabrikamFiber.DAL.csproj.CoreCompileInputs.cache
+C:\Users\jlmartinez\Desktop\2018Capacitacion\Code\3-OrangeBelt\fabrikam\sourceCode\VS2015\FabrikamFiber.DAL\obj\Debug\FabrikamFiber.DAL.csproj.CopyComplete
+C:\Users\jlmartinez\Desktop\2018Capacitacion\Code\3-OrangeBelt\fabrikam\sourceCode\VS2015\FabrikamFiber.DAL\obj\Debug\FabrikamFiber.DAL.dll
+C:\Users\jlmartinez\Desktop\2018Capacitacion\Code\3-OrangeBelt\fabrikam\sourceCode\VS2015\FabrikamFiber.DAL\obj\Debug\FabrikamFiber.DAL.pdb
+C:\Users\jlmartinez\Desktop\2018Capacitacion\Code\3-OrangeBelt\fabrikam\sourceCode\VS2015\FabrikamFiber.DAL\obj\Debug\FabrikamFiber.DAL.csprojAssemblyReference.cache

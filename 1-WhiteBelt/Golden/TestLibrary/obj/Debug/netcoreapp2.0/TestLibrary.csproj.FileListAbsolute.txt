@@ -1,0 +1,17 @@
+C:\Users\jlmartinez\Desktop\Plan Capacitación .NET Core con Microservicios y Docker\Code\White Belt\Golden\TestLibrary\obj\Debug\netcoreapp2.0\TestLibrary.csprojResolveAssemblyReference.cache
+C:\Users\jlmartinez\Desktop\Plan Capacitación .NET Core con Microservicios y Docker\Code\White Belt\Golden\TestLibrary\obj\Debug\netcoreapp2.0\TestLibrary.csproj.CoreCompileInputs.cache
+C:\Users\jlmartinez\Desktop\Plan Capacitación .NET Core con Microservicios y Docker\Code\White Belt\Golden\TestLibrary\obj\Debug\netcoreapp2.0\TestLibrary.AssemblyInfoInputs.cache
+C:\Users\jlmartinez\Desktop\Plan Capacitación .NET Core con Microservicios y Docker\Code\White Belt\Golden\TestLibrary\obj\Debug\netcoreapp2.0\TestLibrary.AssemblyInfo.cs
+C:\Users\jlmartinez\Desktop\Plan Capacitación .NET Core con Microservicios y Docker\Code\White Belt\Golden\TestLibrary\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jlmartinez\Desktop\Plan Capacitación .NET Core con Microservicios y Docker\Code\White Belt\Golden\TestLibrary\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jlmartinez\Desktop\Plan Capacitación .NET Core con Microservicios y Docker\Code\White Belt\Golden\TestLibrary\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jlmartinez\Desktop\Plan Capacitación .NET Core con Microservicios y Docker\Code\White Belt\Golden\TestLibrary\bin\Debug\netcoreapp2.0\TestLibrary.deps.json
+C:\Users\jlmartinez\Desktop\Plan Capacitación .NET Core con Microservicios y Docker\Code\White Belt\Golden\TestLibrary\bin\Debug\netcoreapp2.0\TestLibrary.runtimeconfig.json
+C:\Users\jlmartinez\Desktop\Plan Capacitación .NET Core con Microservicios y Docker\Code\White Belt\Golden\TestLibrary\bin\Debug\netcoreapp2.0\TestLibrary.runtimeconfig.dev.json
+C:\Users\jlmartinez\Desktop\Plan Capacitación .NET Core con Microservicios y Docker\Code\White Belt\Golden\TestLibrary\bin\Debug\netcoreapp2.0\TestLibrary.dll
+C:\Users\jlmartinez\Desktop\Plan Capacitación .NET Core con Microservicios y Docker\Code\White Belt\Golden\TestLibrary\bin\Debug\netcoreapp2.0\TestLibrary.pdb
+C:\Users\jlmartinez\Desktop\Plan Capacitación .NET Core con Microservicios y Docker\Code\White Belt\Golden\TestLibrary\bin\Debug\netcoreapp2.0\Library.dll
+C:\Users\jlmartinez\Desktop\Plan Capacitación .NET Core con Microservicios y Docker\Code\White Belt\Golden\TestLibrary\bin\Debug\netcoreapp2.0\Library.pdb
+C:\Users\jlmartinez\Desktop\Plan Capacitación .NET Core con Microservicios y Docker\Code\White Belt\Golden\TestLibrary\obj\Debug\netcoreapp2.0\TestLibrary.csproj.CopyComplete
+C:\Users\jlmartinez\Desktop\Plan Capacitación .NET Core con Microservicios y Docker\Code\White Belt\Golden\TestLibrary\obj\Debug\netcoreapp2.0\TestLibrary.dll
+C:\Users\jlmartinez\Desktop\Plan Capacitación .NET Core con Microservicios y Docker\Code\White Belt\Golden\TestLibrary\obj\Debug\netcoreapp2.0\TestLibrary.pdb

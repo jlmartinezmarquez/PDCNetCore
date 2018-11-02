@@ -1,0 +1,22 @@
+C:\Users\jlmartinez\Desktop\Plan Capacitación .NET Core con Microservicios y Docker\Code\3- Orange Belt\FirstDockerApp\Hello\bin\Debug\netcoreapp2.1\Hello.deps.json
+C:\Users\jlmartinez\Desktop\Plan Capacitación .NET Core con Microservicios y Docker\Code\3- Orange Belt\FirstDockerApp\Hello\bin\Debug\netcoreapp2.1\Hello.runtimeconfig.json
+C:\Users\jlmartinez\Desktop\Plan Capacitación .NET Core con Microservicios y Docker\Code\3- Orange Belt\FirstDockerApp\Hello\bin\Debug\netcoreapp2.1\Hello.runtimeconfig.dev.json
+C:\Users\jlmartinez\Desktop\Plan Capacitación .NET Core con Microservicios y Docker\Code\3- Orange Belt\FirstDockerApp\Hello\bin\Debug\netcoreapp2.1\Hello.dll
+C:\Users\jlmartinez\Desktop\Plan Capacitación .NET Core con Microservicios y Docker\Code\3- Orange Belt\FirstDockerApp\Hello\bin\Debug\netcoreapp2.1\Hello.pdb
+C:\Users\jlmartinez\Desktop\Plan Capacitación .NET Core con Microservicios y Docker\Code\3- Orange Belt\FirstDockerApp\Hello\obj\Debug\netcoreapp2.1\Hello.csprojAssemblyReference.cache
+C:\Users\jlmartinez\Desktop\Plan Capacitación .NET Core con Microservicios y Docker\Code\3- Orange Belt\FirstDockerApp\Hello\obj\Debug\netcoreapp2.1\Hello.csproj.CoreCompileInputs.cache
+C:\Users\jlmartinez\Desktop\Plan Capacitación .NET Core con Microservicios y Docker\Code\3- Orange Belt\FirstDockerApp\Hello\obj\Debug\netcoreapp2.1\Hello.AssemblyInfoInputs.cache
+C:\Users\jlmartinez\Desktop\Plan Capacitación .NET Core con Microservicios y Docker\Code\3- Orange Belt\FirstDockerApp\Hello\obj\Debug\netcoreapp2.1\Hello.AssemblyInfo.cs
+C:\Users\jlmartinez\Desktop\Plan Capacitación .NET Core con Microservicios y Docker\Code\3- Orange Belt\FirstDockerApp\Hello\obj\Debug\netcoreapp2.1\Hello.dll
+C:\Users\jlmartinez\Desktop\Plan Capacitación .NET Core con Microservicios y Docker\Code\3- Orange Belt\FirstDockerApp\Hello\obj\Debug\netcoreapp2.1\Hello.pdb
+C:\Users\jlmartinez\Desktop\2018Capacitacion\Code\3-OrangeBelt\FirstDockerApp\Hello\bin\Debug\netcoreapp2.1\Hello.deps.json
+C:\Users\jlmartinez\Desktop\2018Capacitacion\Code\3-OrangeBelt\FirstDockerApp\Hello\bin\Debug\netcoreapp2.1\Hello.runtimeconfig.json
+C:\Users\jlmartinez\Desktop\2018Capacitacion\Code\3-OrangeBelt\FirstDockerApp\Hello\bin\Debug\netcoreapp2.1\Hello.runtimeconfig.dev.json
+C:\Users\jlmartinez\Desktop\2018Capacitacion\Code\3-OrangeBelt\FirstDockerApp\Hello\bin\Debug\netcoreapp2.1\Hello.dll
+C:\Users\jlmartinez\Desktop\2018Capacitacion\Code\3-OrangeBelt\FirstDockerApp\Hello\bin\Debug\netcoreapp2.1\Hello.pdb
+C:\Users\jlmartinez\Desktop\2018Capacitacion\Code\3-OrangeBelt\FirstDockerApp\Hello\obj\Debug\netcoreapp2.1\Hello.csprojAssemblyReference.cache
+C:\Users\jlmartinez\Desktop\2018Capacitacion\Code\3-OrangeBelt\FirstDockerApp\Hello\obj\Debug\netcoreapp2.1\Hello.csproj.CoreCompileInputs.cache
+C:\Users\jlmartinez\Desktop\2018Capacitacion\Code\3-OrangeBelt\FirstDockerApp\Hello\obj\Debug\netcoreapp2.1\Hello.AssemblyInfoInputs.cache
+C:\Users\jlmartinez\Desktop\2018Capacitacion\Code\3-OrangeBelt\FirstDockerApp\Hello\obj\Debug\netcoreapp2.1\Hello.AssemblyInfo.cs
+C:\Users\jlmartinez\Desktop\2018Capacitacion\Code\3-OrangeBelt\FirstDockerApp\Hello\obj\Debug\netcoreapp2.1\Hello.dll
+C:\Users\jlmartinez\Desktop\2018Capacitacion\Code\3-OrangeBelt\FirstDockerApp\Hello\obj\Debug\netcoreapp2.1\Hello.pdb

@@ -1,0 +1,22 @@
+networks:
+  default:
+    external:
+      name: nat
+services:
+  vstoolsfordocker:
+    build:
+      context: C:\Users\jlmartinez\Desktop\2018Capacitacion\Code\3-OrangeBelt\VSToolsForDocker
+      dockerfile: VSToolsForDocker\Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    image: vstoolsfordocker
+    ports:
+    - published: 1418
+      target: 80
+    - published: 44333
+      target: 443
+    volumes:
+    - C:\Users\jlmartinez\AppData\Roaming\ASP.NET\Https:C:\Users\ContainerUser\AppData\Roaming\ASP.NET\Https:ro
+    - C:\Users\jlmartinez\AppData\Roaming\Microsoft\UserSecrets:C:\Users\ContainerUser\AppData\Roaming\Microsoft\UserSecrets:ro
+version: '3.4'

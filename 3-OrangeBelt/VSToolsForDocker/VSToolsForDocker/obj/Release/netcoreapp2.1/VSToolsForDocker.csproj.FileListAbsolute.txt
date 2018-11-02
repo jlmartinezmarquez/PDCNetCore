@@ -1,0 +1,14 @@
+C:\Users\jlmartinez\Desktop\2018Capacitacion\Code\3-OrangeBelt\VSToolsForDocker\VSToolsForDocker\bin\Release\netcoreapp2.1\VSToolsForDocker.deps.json
+C:\Users\jlmartinez\Desktop\2018Capacitacion\Code\3-OrangeBelt\VSToolsForDocker\VSToolsForDocker\bin\Release\netcoreapp2.1\VSToolsForDocker.runtimeconfig.json
+C:\Users\jlmartinez\Desktop\2018Capacitacion\Code\3-OrangeBelt\VSToolsForDocker\VSToolsForDocker\bin\Release\netcoreapp2.1\VSToolsForDocker.runtimeconfig.dev.json
+C:\Users\jlmartinez\Desktop\2018Capacitacion\Code\3-OrangeBelt\VSToolsForDocker\VSToolsForDocker\bin\Release\netcoreapp2.1\VSToolsForDocker.dll
+C:\Users\jlmartinez\Desktop\2018Capacitacion\Code\3-OrangeBelt\VSToolsForDocker\VSToolsForDocker\bin\Release\netcoreapp2.1\VSToolsForDocker.pdb
+C:\Users\jlmartinez\Desktop\2018Capacitacion\Code\3-OrangeBelt\VSToolsForDocker\VSToolsForDocker\obj\Release\netcoreapp2.1\VSToolsForDocker.csproj.CoreCompileInputs.cache
+C:\Users\jlmartinez\Desktop\2018Capacitacion\Code\3-OrangeBelt\VSToolsForDocker\VSToolsForDocker\obj\Release\netcoreapp2.1\VSToolsForDocker.RazorAssemblyInfo.cache
+C:\Users\jlmartinez\Desktop\2018Capacitacion\Code\3-OrangeBelt\VSToolsForDocker\VSToolsForDocker\obj\Release\netcoreapp2.1\VSToolsForDocker.RazorAssemblyInfo.cs
+C:\Users\jlmartinez\Desktop\2018Capacitacion\Code\3-OrangeBelt\VSToolsForDocker\VSToolsForDocker\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\jlmartinez\Desktop\2018Capacitacion\Code\3-OrangeBelt\VSToolsForDocker\VSToolsForDocker\obj\Release\netcoreapp2.1\VSToolsForDocker.AssemblyInfoInputs.cache
+C:\Users\jlmartinez\Desktop\2018Capacitacion\Code\3-OrangeBelt\VSToolsForDocker\VSToolsForDocker\obj\Release\netcoreapp2.1\VSToolsForDocker.AssemblyInfo.cs
+C:\Users\jlmartinez\Desktop\2018Capacitacion\Code\3-OrangeBelt\VSToolsForDocker\VSToolsForDocker\obj\Release\netcoreapp2.1\VSToolsForDocker.RazorTargetAssemblyInfo.cache
+C:\Users\jlmartinez\Desktop\2018Capacitacion\Code\3-OrangeBelt\VSToolsForDocker\VSToolsForDocker\obj\Release\netcoreapp2.1\VSToolsForDocker.dll
+C:\Users\jlmartinez\Desktop\2018Capacitacion\Code\3-OrangeBelt\VSToolsForDocker\VSToolsForDocker\obj\Release\netcoreapp2.1\VSToolsForDocker.pdb

@@ -1,0 +1,12 @@
+trigger:
+  branches:
+    include:
+      - nightly
+  paths:
+    exclude:
+      - samples/*
+      - manifest.samples.json
+phases:
+  - template: ../phases/build-all.yml
+    parameters:
+      repo: dotnet-nightly

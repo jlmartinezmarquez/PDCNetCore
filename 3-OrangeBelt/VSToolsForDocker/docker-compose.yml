@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  vstoolsfordocker:
+    image: ${DOCKER_REGISTRY}vstoolsfordocker
+    build:
+      context: .
+      dockerfile: VSToolsForDocker\Dockerfile

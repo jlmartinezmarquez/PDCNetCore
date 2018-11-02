@@ -1,0 +1,9 @@
+C:\Users\jlmartinez\Desktop\Plan Capacitación .NET Core con Microservicios y Docker\Code\White Belt\Golden\Library\bin\Debug\netstandard2.0\Library.deps.json
+C:\Users\jlmartinez\Desktop\Plan Capacitación .NET Core con Microservicios y Docker\Code\White Belt\Golden\Library\bin\Debug\netstandard2.0\Library.dll
+C:\Users\jlmartinez\Desktop\Plan Capacitación .NET Core con Microservicios y Docker\Code\White Belt\Golden\Library\obj\Debug\netstandard2.0\Library.csprojResolveAssemblyReference.cache
+C:\Users\jlmartinez\Desktop\Plan Capacitación .NET Core con Microservicios y Docker\Code\White Belt\Golden\Library\obj\Debug\netstandard2.0\Library.csproj.CoreCompileInputs.cache
+C:\Users\jlmartinez\Desktop\Plan Capacitación .NET Core con Microservicios y Docker\Code\White Belt\Golden\Library\obj\Debug\netstandard2.0\Library.AssemblyInfoInputs.cache
+C:\Users\jlmartinez\Desktop\Plan Capacitación .NET Core con Microservicios y Docker\Code\White Belt\Golden\Library\obj\Debug\netstandard2.0\Library.AssemblyInfo.cs
+C:\Users\jlmartinez\Desktop\Plan Capacitación .NET Core con Microservicios y Docker\Code\White Belt\Golden\Library\bin\Debug\netstandard2.0\Library.pdb
+C:\Users\jlmartinez\Desktop\Plan Capacitación .NET Core con Microservicios y Docker\Code\White Belt\Golden\Library\obj\Debug\netstandard2.0\Library.dll
+C:\Users\jlmartinez\Desktop\Plan Capacitación .NET Core con Microservicios y Docker\Code\White Belt\Golden\Library\obj\Debug\netstandard2.0\Library.pdb
